@@ -34,7 +34,7 @@ Open your browser.
 
 Visit:
 
-http://localhost:5500
+https://drishti-chopra-portfolio.onrender.com/
 
 
 IMPORTANT:
